@@ -1,13 +1,15 @@
 ![logo](https://www.canva.com/design/DAFYHt_TVkA/okFxrcl5eG44KsRyTdRrog/watch?utm_content=DAFYHt_TVkA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
 <h3 align="center">Student</h3>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=Always+A+Learner;Software+Developer;AI/Machine+Learning;)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=Always+A+Learner;Software+Developer;AI/Machine+Learning;) -->
+
 <img align="right" alt="coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavy0112&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavy0112" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge.jpg" alt="" /></a> </p>
 
+<h3> 🎖️ About Me </h3>
 - 🔭 I’m currently working on [CYSEC](https://github.com/Vaibhavy0112/CYSEC)
 
 - 🌱 I’m currently learning **Salesforce**
