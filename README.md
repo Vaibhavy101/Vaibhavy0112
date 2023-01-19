@@ -1,4 +1,4 @@
-![logo](https://github.com/Vaibhavy0112/Vaibhavy0112/blob/main/To%20my%20GITHUB.png.jpg)
+![logo](https://github.com/Vaibhavy0112/Vaibhavy0112/blob/main/To%20my%20GITHUB.mp4)
 <h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
 <h3 align="center">Student</h3>
 
