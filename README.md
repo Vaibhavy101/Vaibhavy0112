@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![logo](https://github.com/Vaibhavy0112/Vaibhavy0112/blob/main/To%20my%20GITHUB%20(1).gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
 <h3 align="center">Student</h3>
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=Always+A+Learner;Software+Developer;AI/Machine+Learning;)
