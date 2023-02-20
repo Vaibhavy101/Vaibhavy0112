@@ -1,8 +1,8 @@
-![logo](https://github.com/Vaibhavy0112/Vaibhavy0112/blob/main/To%20my%20GITHUB%20(1).gif)
-<h1 align="center">Hi 👋, I'm Vaibhav Yadav</h1>
-<h3 align="center">Student</h3>
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=Always+A+Learner;Software+Developer;AI/Machine+Learning;)
- -->
+
+<h1>Hi 👋, I'm Vaibhav Yadav</h1
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Full+Stack+Developer;;)
+
 <img align="right" alt="coding" width="400" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavy0112&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavy0112" /> </p>
